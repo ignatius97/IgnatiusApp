@@ -1,0 +1,12 @@
+{
+  "name": "About-Ignatius",
+  "displayName": "About-Ignatius",
+  "expo": {
+    "name": "About-Ignatius",
+    "slug": "About-Ignatius",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
